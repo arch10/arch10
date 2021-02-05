@@ -1,4 +1,5 @@
 <img align="center" alt="DEV" src="./dev_img.png" width=500px />
+
 # Hi there! I'm [Archit](https://me.arch10.in) 👋
 
 ![Profile views](https://gpvc.arturio.dev/arch10)
