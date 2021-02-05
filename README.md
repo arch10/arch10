@@ -32,7 +32,7 @@ I like to learn about new technologies, or simply play games in my free time.
 ## 🤝 Let's Connect
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-gray?style=for-the-badge&logo=google-chrome&logoColor=white)](https://me.arch10.in/)
-[![Mail](https://img.shields.io/badge/-Say%20Hi!-gray?style=for-the-badge&logo=gmail)](mailto:arch1824@gmail.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-gray?style=for-the-badge&logo=twitter)](https://twitter.com/arch1006)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-gray?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/arch6/)
+[![Gmail](https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arch1824@gmail.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/arch1006)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arch6/)
 [![Telegram](https://img.shields.io/badge/-Telegram-gray?style=for-the-badge&logo=telegram)](https://t.me/arch1824)
