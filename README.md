@@ -1,9 +1,9 @@
 <img align="center" alt="DEV" src="./dev_img.png" width=500px />
-# Hi there! I'm [Archit](https://me.arch10.in) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi there! I'm [Archit](https://me.arch10.in) 👋
 
 ![Profile views](https://gpvc.arturio.dev/arch10)
 
-### 🙍‍♂️ About Me
+## 🙍‍♂️ About Me
 
 I am a self taught Android developer. Worked on various technologies such as React-Native, Android, Vertx.
 
@@ -13,7 +13,7 @@ I like to learn about new technologies, or simply play games in my free time.
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arch10&layout=compact" alt="Archit Raj | Stats" />
 
-### 💻 Tech Stack
+## 💻 Tech Stack
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&color=5094F0)
 ![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=java&color=5094F0)
@@ -28,7 +28,7 @@ I like to learn about new technologies, or simply play games in my free time.
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=docker&color=5094F0)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=for-the-badge&logo=kubernetes&color=5094F0)
 
-### 🤝 Let's Connect
+## 🤝 Let's Connect
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-gray?style=for-the-badge&logo=google-chrome&logoColor=white)](https://me.arch10.in/)
 [![Mail](https://img.shields.io/badge/-Say%20Hi!-gray?style=for-the-badge&logo=gmail)](mailto:arch1824@gmail.com)
