@@ -6,7 +6,7 @@
 
 ## 🙍‍♂️ About Me
 
-I am a self taught Android developer. Worked on various technologies such as React-Native, Android, Vertx.
+I am a self taught Mobile & Full Stack developer. Worked on various technologies such as React-Native, Android, React, Express, Vertx.
 
 I like to learn about new technologies, or simply play games in my free time.
 
