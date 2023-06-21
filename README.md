@@ -2,8 +2,6 @@
 
 # Hi there! I'm [Archit](https://me.arch10.in) 👋
 
-![Profile views](https://gpvc.arturio.dev/arch10)
-
 ## 🙍‍♂️ About Me
 
 I am a self taught Mobile & Full Stack developer. Worked on various technologies such as React-Native, Android, React, Express, Vertx.
